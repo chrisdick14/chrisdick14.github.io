@@ -1,0 +1,12 @@
+# Site settings
+title: Chris Dick
+email: chrisdick14@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal Website for Chris Dick
+url: 'https://chrisdick14.github.io/'
+baseurl: '/'
+twitter_username: chris_dick
+github_username:  chrisdick14
+
+# Build settings
+markdown: kramdown
